@@ -1,0 +1,67 @@
+{ "songs":
+  [ { "title": "(^^)"
+    , "artist": "Yamajet"
+    , "genre": "Foon"
+    , "bpm": 140
+    , "unreleased": true
+    , "readme": "README.md"
+    , "charts":
+      [ { "md5": "cf30b398786bb3afe56ecaedb0f7e0cf"
+        , "info":
+          { "title": "(^^)"
+          , "artist": "Yamajet"
+          , "genre": "Foon"
+          , "subtitles":
+            [ "10keys Normal"
+            ]
+          , "subartists":
+            [ "BGA: cyclia"
+            ]
+          , "difficulty": 0
+          , "level": 2
+          }
+        , "noteCount": 8
+        , "bpm":
+          { "init": 140
+          , "min": 140
+          , "median": 140
+          , "max": 140
+          }
+        , "duration": 4.5
+        , "scratch": true
+        , "keys": "10K"
+        , "file": "foon_10n.bms"
+        }
+      , { "md5": "6ab1f3d37bdb6535514f1858c64c10fb"
+        , "info":
+          { "title": "(^^)"
+          , "artist": "Yamajet"
+          , "genre": "Foon"
+          , "subtitles":
+            [ "5keys Normal"
+            ]
+          , "subartists":
+            [ "BGA: cyclia"
+            ]
+          , "difficulty": 0
+          , "level": 1
+          }
+        , "noteCount": 9
+        , "bpm":
+          { "init": 140
+          , "min": 140
+          , "median": 140
+          , "max": 140
+          }
+        , "duration": 4.5
+        , "scratch": true
+        , "keys": "5K"
+        , "file": "foon_5n.bms"
+        }
+      ]
+    , "warnings": []
+    , "id": "[yamajet]foon"
+    , "path": "[yamajet]foon"
+    }
+  ]
+}
